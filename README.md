@@ -1,2 +1,2 @@
-# Anonymous Traceble Group Data Sharing in Cloud Computing.
-### Team Members
+# AnonyShare: Anonymous and Traceable Cross-Platform Data Sharing
+AnonyShare is a secure, privacy-focused platform built with Flask that allows users to upload, share, and access files anonymously across web, mobile, and desktop platforms. Combining end-to-end encryption and traceable audit logs, AnonyShare ensures that all user actions are logged for security while maintaining complete anonymity.
